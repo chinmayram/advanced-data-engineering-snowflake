@@ -1,6 +1,6 @@
 USE ROLE accountadmin;
 
-
+-----------change
 /*--
 database, schema and warehouse creation
 --*/
